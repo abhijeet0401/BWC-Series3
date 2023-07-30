@@ -8,7 +8,6 @@
 - Yogesh Kute front-end, ui-ux, front-end
 
 <img src='./screenshot/prot1.jpg' />
-<img src='./MapX_CELO_SuperFluid/screenshot/prot1.jpg' />
 
 #### Project Description
 Businesses often find it difficult to market themselves to drive foot traffic. According to the US Bureau of labour statistics, traditional businesses find it hard to market themselves to consumers
